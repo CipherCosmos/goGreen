@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fenrir2608/goGreen.git"
+    "url": "git+https://github.com/CipherCosmos/goGreen.git"
   },
   "bugs": {
-    "url": "https://github.com/fenrir2608/goGreen/issues"
+    "url": "https://github.com/CipherCosmos/goGreen/issues"
   },
-  "homepage": "https://github.com/fenrir2608/goGreen#readme"
+  "homepage": "https://github.com/CipherCosmos/goGreen#readme"
 }
